@@ -39,3 +39,6 @@ def print_aesthetic_morning():
 
 if __name__ == "__main__":
     print_aesthetic_morning()
+
+pnpm i -g vercel
+
